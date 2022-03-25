@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julidow\\Desktop\\Dokumenty na studia\\PAzIG\\SpaceShooter\\SpaceShooter.csproj",
+      "projectUniqueName": "C:\\Users\\julidow\\Source\\Repos\\JDowsilas\\SpaceShooter\\SpaceShooter.csproj",
       "projectName": "SpaceShooter",
-      "projectPath": "C:\\Users\\julidow\\Desktop\\Dokumenty na studia\\PAzIG\\SpaceShooter\\SpaceShooter.csproj",
+      "projectPath": "C:\\Users\\julidow\\Source\\Repos\\JDowsilas\\SpaceShooter\\SpaceShooter.csproj",
       "packagesPath": "C:\\Users\\julidow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julidow\\Desktop\\Dokumenty na studia\\PAzIG\\SpaceShooter\\obj\\",
+      "outputPath": "C:\\Users\\julidow\\Source\\Repos\\JDowsilas\\SpaceShooter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julidow\\AppData\\Roaming\\NuGet\\NuGet.Config",
