@@ -11,6 +11,8 @@ namespace SpaceShooter
         {
             Console.WriteLine("Test");
             //comm
+
+            Console.WriteLine("twessegew");
         }
     }
 }
